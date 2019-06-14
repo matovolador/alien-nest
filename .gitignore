@@ -1,0 +1,12 @@
+_labs
+aliennest
+local.properties
+.settings
+.idea
+.gradle
+.project
+android/android-release.apk
+build/intermediates
+build/output
+android/build/intermediates
+android/build/outputs
