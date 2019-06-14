@@ -1,0 +1,250 @@
+
+spriteSheet1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+joystick-outter
+  rotate: false
+  xy: 1, 129
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+boss-1-1
+  rotate: false
+  xy: 1, 28
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1
+boss-1-2
+  rotate: false
+  xy: 123, 150
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1
+alien-2-1
+  rotate: false
+  xy: 225, 169
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+alien-2-2
+  rotate: false
+  xy: 307, 169
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+alien-death-1
+  rotate: false
+  xy: 389, 169
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+alien-death-2
+  rotate: false
+  xy: 471, 169
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+alien-death-3
+  rotate: false
+  xy: 553, 169
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+explosion-1
+  rotate: false
+  xy: 635, 169
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+explosion-2
+  rotate: false
+  xy: 717, 169
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+explosion-3
+  rotate: false
+  xy: 799, 169
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+joystick-inner
+  rotate: false
+  xy: 881, 169
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+character-stand
+  rotate: false
+  xy: 963, 199
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+character-walk1
+  rotate: false
+  xy: 963, 147
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+alien-3-1
+  rotate: false
+  xy: 1, 1
+  size: 80, 25
+  orig: 80, 25
+  offset: 0, 0
+  index: -1
+alien-3-2
+  rotate: false
+  xy: 123, 123
+  size: 80, 25
+  orig: 80, 25
+  offset: 0, 0
+  index: -1
+character-walk2
+  rotate: false
+  xy: 103, 71
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+alien-1-1
+  rotate: false
+  xy: 103, 24
+  size: 60, 45
+  orig: 60, 45
+  offset: 0, 0
+  index: -1
+player-ship
+  rotate: false
+  xy: 165, 71
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+alien-1-2
+  rotate: false
+  xy: 165, 24
+  size: 60, 45
+  orig: 60, 45
+  offset: 0, 0
+  index: -1
+boss-laser-0
+  rotate: false
+  xy: 225, 147
+  size: 65, 20
+  orig: 65, 20
+  offset: 0, 0
+  index: -1
+bCapsule
+  rotate: false
+  xy: 292, 142
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: -1
+bombCapsule
+  rotate: false
+  xy: 354, 142
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: -1
+healthCapsule
+  rotate: false
+  xy: 416, 142
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: -1
+missileCapsule
+  rotate: false
+  xy: 478, 142
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: -1
+rCapsule
+  rotate: false
+  xy: 540, 142
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: -1
+enemy-ship-1
+  rotate: false
+  xy: 602, 122
+  size: 56, 45
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+bullet2
+  rotate: false
+  xy: 660, 137
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+landmine
+  rotate: false
+  xy: 692, 137
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+boss-laser-long
+  rotate: false
+  xy: 724, 147
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+space-missile
+  rotate: false
+  xy: 762, 142
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+bullet3
+  rotate: false
+  xy: 660, 125
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+acid
+  rotate: false
+  xy: 83, 20
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+bullet1
+  rotate: false
+  xy: 205, 138
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+space-bullet
+  rotate: false
+  xy: 789, 157
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1

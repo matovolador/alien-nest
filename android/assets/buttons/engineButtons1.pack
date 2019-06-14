@@ -1,0 +1,19 @@
+
+engineButtons1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+button1
+  rotate: false
+  xy: 1, 1
+  size: 202, 64
+  orig: 202, 64
+  offset: 0, 0
+  index: -1
+button2
+  rotate: false
+  xy: 205, 1
+  size: 202, 64
+  orig: 202, 64
+  offset: 0, 0
+  index: -1
